@@ -1,2 +1,2 @@
-# Koffee & KWebBrew Apps
+# Koffee Launcher & KWebBrew Apps
 Find the app you want here, just download the ZIP of the app you want!
